@@ -11,13 +11,13 @@ pip install distil-whisper-fastrtc
 For audio file loading capabilities, install with the audio extras:
 
 ```bash
-pip install distil-whisper-fastrtc[audio]
+pip install "distil-whisper-fastrtc[audio]"
 ```
 
 For development:
 
 ```bash
-pip install distil-whisper-fastrtc[dev]
+pip install "distil-whisper-fastrtc[dev]"
 ```
 
 ## Usage
